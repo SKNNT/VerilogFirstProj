@@ -1,7 +1,7 @@
 # ControlPanel
 This project includes the development of a device on a microcontroller that monitors the employee's condition and the development of software for it
 
-Дальнейшее описание будет на русском языке, данный файл будет постоянно обновлятся 
+Дальнейшее описание будет на русском языке, данный файл будет постоянно обновляться 
 
 #Стадии работы:
 1. Знакомство с git и qt

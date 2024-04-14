@@ -1,0 +1,25 @@
+|proj
+x0 => comb.DATAIN
+x1 => comb.DATAIN
+A => comb.DATAIN
+y <= comb.DB_MAX_OUTPUT_PORT_TYPE
+y_mx0 <= Mx:comb_7.port0
+y_mx1 <= Mx:comb_8.y
+
+
+|proj|Mx:comb_7
+y <= comb.DB_MAX_OUTPUT_PORT_TYPE
+A => comb.IN0
+A => comb.IN0
+X0 => comb.IN1
+X1 => comb.IN1
+
+
+|proj|Mx:comb_8
+y <= comb.DB_MAX_OUTPUT_PORT_TYPE
+A => comb.IN0
+A => comb.IN0
+X0 => comb.IN1
+X1 => comb.IN1
+
+
